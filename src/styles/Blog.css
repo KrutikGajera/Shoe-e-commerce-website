@@ -1,0 +1,39 @@
+.blog
+            {
+                color:aliceblue;
+                width: 50px;
+                height: 50px;
+                border: solid white 1px;
+                float: left;
+                text-align: center;
+                border-radius: 100%;
+                font-size: 25px;
+                padding-top: 8px;    
+            }
+
+            .blog:hover
+            {
+                background-color: white;
+                color: grey;
+            }
+
+            .blog1
+            {
+                background-color: rgb(12, 12, 11);
+                padding: 20px;
+                color: aliceblue;
+            }
+
+            .back1
+            {
+                height: 300px;
+                width: 100%;
+            }
+
+            .border1{
+                
+                cursor:pointer;
+            }
+            .border1:hover{
+                border: 2px solid black;
+            }

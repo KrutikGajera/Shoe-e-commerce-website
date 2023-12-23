@@ -1,0 +1,61 @@
+/* --------------------------------------------- filter ---------------------------------------------------- */
+
+* {
+    box-sizing: border-box!important;
+    transition: ease all 0.5s;
+}
+.productcard{
+    margin-top: 3rem;
+    display: flex;
+    justify-content:space-between;
+    padding:2rem;
+    margin-left:2rem;
+}
+
+
+body
+{
+    overflow-x: hidden;
+    padding-top: 100px;
+}
+.card-img-top
+{
+    width: 300px;
+    height: 200px;
+    object-fit: contain;
+}
+.input
+{
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    padding: 10px;
+}
+
+.btn
+{
+    width: 100px;
+    padding: 3px;
+
+}
+
+.sidenav {
+    height: 100%; 
+    width: 160px; 
+    position: fixed; 
+    z-index: 1;
+    overflow-x: hidden; 
+    padding-top: 70px;
+  }
+.main {
+    margin-left: 160px;
+    padding: 0px 10px;
+  }
+
+
+.test
+{
+    object-fit: cover;
+    overflow: hidden;
+    transition: ease all 0.5s;
+}

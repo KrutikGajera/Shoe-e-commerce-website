@@ -1,0 +1,44 @@
+.form
+{
+  border: 1px solid black;
+  padding: 50px;
+  height: 350px;
+  width:350px;
+  background-color:  #d3d4d4;
+  margin-left: 35%;
+}
+.div
+{
+  align-content: center;
+}
+.text1
+{
+  font-size: 25px;
+  font-weight: 500;
+  
+}
+.signup1
+{
+  height: 50px;
+  font-size: 20px;
+  width: 100px;
+  border: 2px solid black;
+  padding: 10px;
+  color:black;
+  background-color:rgb(132, 134, 132);
+  margin-top: 10px;
+  margin-left: 60px;
+}
+.signup1:hover
+{
+  height: 50px;
+  width: 100px;
+  background-color: rgb(234, 238, 235);
+}
+
+.input
+{
+  width: 250px;
+  font-weight: 600;
+  text-align: left;
+}

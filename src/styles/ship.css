@@ -1,0 +1,39 @@
+.ship
+            {
+                background-color: rgb(237, 232, 232);
+                font-size: 20px;
+            }
+            .shipicon
+            {
+                font-size: 40px;
+            }
+
+            .ilogo
+            {
+                height: 40px;
+                width: 40px;
+                border-radius: 20px;
+                padding-bottom: 5px;
+            }
+
+
+            .text2
+            {
+                text-decoration: none;
+                color:white;
+                padding: 2px;
+                border: 2px solid white;
+                padding: 10px;
+            }
+
+            .text2:hover
+            {
+                background-color: white ;
+                color: black;
+            }
+
+            .text3
+            {
+                font-size: 20px;
+                font-weight: 500;
+            }
